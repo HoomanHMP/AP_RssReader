@@ -1,5 +1,5 @@
-RssReader is a simple Java project that uses Jsoup in order to manage your fav'orite blogs and show you updates on them.
-You can add any blog that has an RSS URL, and you can also remove any blog that you dont want to follow anymore.
+RssReader is a simple Java project that uses Jsoup in order to manage your favorite blogs and show you updates on them.
+You can add any blog that has an RSS URL, and you can also remove any blog that you don't want to follow anymore.
 The code saves the blogs on your hard drive upon exit, so you don't have to add every blog each time you run the code.
 
 ![image](https://github.com/HoomanHMP/AP_RssReader/assets/153434854/2f64e6fb-1f93-4b4f-a87e-c16eda6758e8)
